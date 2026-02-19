@@ -204,4 +204,3 @@ Lightweight CNNs like MobileNetV2 can empower farmers with real-time disease dia
 ## 👩‍💻 Author
 
 **Ananya Dua**
-What would you like next?
